@@ -1,1 +1,1 @@
-# aprendizaje-automatico-u2-s8
+# Aprendizaje-Automatico-u2-s8
